@@ -29,11 +29,15 @@ This 3-stage mechanism consists of **six nested shafts** engineered to slide wit
 
 ---
 
-## 📸 Design Image
+## 📸 Design Images
 
 > Replace `./images/telescopic_shaft.png` with your actual image file path.
 
 ![Telescopic Shaft Design](full-view.jpg)
+
+![Cross-Sectional View](half-view.jpg)
+
+![Extended View](extended.png)
 
 ---
 
